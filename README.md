@@ -7,6 +7,8 @@ Jupyter notebooks in Portuguese for educational purposes.
 Jupyter notebooks em português para fins educacionais. 
 
 
+Contato: julia@linea.gov.br 
+
 
 Slides: 
 
