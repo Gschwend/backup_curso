@@ -25,7 +25,7 @@ https://docs.google.com/presentation/d/1jo1YSXiC-lUm14zUaI-BMPXr9qfpoqKCnHQGO0i-
 #### Aula 2: Hands-on
  Divisão dos alunos em grupos (breakout rooms) com a presença de monitores do LIneA para a realização de atividades propostas. 
 
-## Módulo II - Python básico e Jupyter (tutora: Julia)
+## Módulo II - Python básico (tutora: Julia)
 
 ### Aula 1: Introdução ao Jupyter
 Atividades:
