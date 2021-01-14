@@ -19,10 +19,10 @@ https://docs.google.com/presentation/d/1jo1YSXiC-lUm14zUaI-BMPXr9qfpoqKCnHQGO0i-
 
 ## Módulo I - LIneA Science Server (tutor: Adriano)
 
-#### Aula 1: Introdução às ferramentas de visualização: Sky Viewer, Tile Viewer, Target Viewer
+### Aula 1: Introdução às ferramentas de visualização: Sky Viewer, Tile Viewer, Target Viewer
  Aula expositiva. Tour pelas ferramentas explorando as funcionalidades. 
 
-#### Aula 2: Hands-on
+### Aula 2: Hands-on
  Divisão dos alunos em grupos (breakout rooms) com a presença de monitores do LIneA para a realização de atividades propostas. 
 
 ## Módulo II - Python básico (tutora: Julia)
