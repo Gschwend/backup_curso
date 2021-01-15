@@ -10,7 +10,7 @@ Contato: julia@linea.gov.br
 ### Programa
 
 ## Módulo I - LIneA Science Server (tutor: Adriano)
-(Q: 1 aula por card? User Query aqui?)
+(Q: 1 aula por card?)
 
 
 ### Aula 1: Introdução às ferramentas de visualização: Sky Viewer, Tile Viewer, Target Viewer
@@ -60,6 +60,19 @@ Atividades:
 ## Módulo III - Aplicações na astronomia (tutores: Adriano, xxx, xxx, xxx)
 
 ### Aula 1: Estudo da Via Láctea e astrofísica estelar 
+- Executar uma query selecionando estrelas em todo o footprint do DES (até g=23.5).
+- Construir um diagrama cor-cor (g-r x r-i, r-i x i-z) e analisar as principais características, como o locus estelar.
+- Identificar o locus stellar. 
+- Usar o zoom de forma a analisar possíveis trens em metalicidade das estrelas. 
+- Comparar histogramas bidimensionais lineares e em log-scale.
+- Criar um CMD das estrelas da Galáxia. 
+- Entender os principais componentes da Galáxia no CMD: disco, halo. 
+- Identificar as anãs do disco, BHB stars e estrelas da sequência principal.
+- Relembrar conceitos das estrelas do Blue Horizontal Branch (He core burning, g_abs=~0.7) como auto-medidoras de distância.
+- Entender os principais conceitos do Healpix-healpy: Nside, número de células no céu, área idêntica para os pixels.
+- Fazer um gráfico com a distribuição das BHB stars in the sky using HealPy.
+- Poder analisar a distribuição da densidade de estrelas no céu usando HealPix com diferentes nsides.
+- Entender a distribuição dos principais clusters de estrelas no céu.
 
 ### Aula 2: TBD
 
