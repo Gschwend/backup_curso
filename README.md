@@ -1,4 +1,4 @@
-# Curso básico de ferramentas computacionais para astronomia 
+# [DRAFT] Curso básico de ferramentas computacionais para astronomia 
 (nome provisório)
 
 Slides: 
