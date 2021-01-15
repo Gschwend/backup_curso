@@ -1,21 +1,13 @@
-# jupyter-curso
-
-
-Jupyter notebooks in Portuguese for educational purposes. 
-
-
-Jupyter notebooks em português para fins educacionais. 
-
-
-Contato: julia@linea.gov.br 
-
+# Curso básico de ferramentas computacionais para astronomia 
+(nome provisório)
 
 Slides: 
 
 https://docs.google.com/presentation/d/1jo1YSXiC-lUm14zUaI-BMPXr9qfpoqKCnHQGO0i-OQI/edit?usp=sharing 
 
+Contato: julia@linea.gov.br 
 
-# Curso básico de ferramentas computacionais para astronomia 
+### Programa
 
 ## Módulo I - LIneA Science Server (tutor: Adriano)
 
