@@ -10,6 +10,8 @@ Contato: julia@linea.gov.br
 ### Programa
 
 ## Módulo I - LIneA Science Server (tutor: Adriano)
+(Q: 1 aula por card? User Query aqui?)
+
 
 ### Aula 1: Introdução às ferramentas de visualização: Sky Viewer, Tile Viewer, Target Viewer
  Aula expositiva. Tour pelas ferramentas explorando as funcionalidades. 
