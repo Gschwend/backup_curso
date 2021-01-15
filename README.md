@@ -17,7 +17,7 @@ Contato: julia@linea.gov.br
 ### Aula 2: Hands-on
  Divisão dos alunos em grupos (breakout rooms) com a presença de monitores do LIneA para a realização de atividades propostas. 
 
-## Módulo II - Python básico (tutora: Julia)
+## Módulo II - Jupyter Notebook (tutora: Julia)
 
 ### Aula 1: Introdução ao Jupyter
 Atividades:
@@ -30,7 +30,7 @@ Atividades:
 - Alimentar um notebook com texto formatado, equações e arquivos anexos
 - Utilizar comandos mágicos
  
-### Aula 2: Conceitos básicos e operações com arrays usando Numpy
+### Aula 2: Python básico e operações com arrays usando Numpy
 Atividades:
 - Como transformar um notebook em uma apresentação de slides com a extensão RISE
 - Sintaxe, variáveis e operações
