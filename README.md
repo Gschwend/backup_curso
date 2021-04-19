@@ -1,5 +1,4 @@
-# [DRAFT] Curso básico de ferramentas computacionais para astronomia 
-(nome provisório)
+# [DRAFT] Introdução a Ferramentas Computacionais Aplicadas à e-Astronomia
 
 
 
