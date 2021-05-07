@@ -42,13 +42,11 @@ Atividades:
 - Fazer download dos dados 
 - Ler arquivos a partir de um notebook (usando a instalação local)
 - Criar um Dataframe e imprimir estatísticas básicas com a biblioteca Pandas 
-- Converter unidades usando a biblioteca Astropy
  
 ### Aula 4: Exploração e visualização dos dados, Matplotlib, Seaborn, Bokeh (1h)
 Atividades:
 - Criar e customizar plots básicos com Matplotlib 
 - Criar plots elegantes com a biblioteca Seaborn  
-- Criar plots interativos com a biblioteca Bokeh
 - Exportar um notebook (HTML, PDF, LaTeX)
 
 ## Módulo III - Aplicações na astronomia 
