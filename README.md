@@ -15,39 +15,66 @@
 
 ## Módulo II - Jupyter Notebook (Julia)
 
-### Aula 1: Introdução ao Jupyter (1h)
+### Aula 1: Introdução ao Jupyter e Python Básico (2h)
+
 Atividades:
-- Instalar e executar o Jupyter localmente
 - Acessar JupyterHub @LIneA
 - Navegar pelo Jupyter Notebook clássico e Jupyter Lab
 - Criar e executar um notebook
-- Importar bibliotecas
-- Definir funções simples
 - Alimentar um notebook com texto formatado, equações e arquivos anexos
 - Utilizar comandos mágicos
- 
-### Aula 2: Python básico e operações com arrays usando Numpy (1h)
-Atividades:
-- Como transformar um notebook em uma apresentação de slides com a extensão RISE
-- Sintaxe, variáveis e operações
-- Listas, tuplas e dicionários
-- Funções, módulos e pacotes  
-- Conceitos de objeto e classe 
-- Operações com matrizes usando Numpy
+- Importar bibliotecas
+- Escrever o primeiro código
 
-### Aula 3: SQL básico, acesso a dados pelo LIneA Science Server, Pandas, Astropy (1h)
+Conceitos abordados: 
+- Caderno de laboratório
+- Open Science
+- Python Básico
+  - Sintaxe, variáveis e operações
+  - Listas, tuplas e dicionários
+  - Funções, módulos e pacotes
+ 
+### Aula 2: Python básico (cont.) e operações com arrays usando Numpy (2h)
+
+Atividades:
+- Transformar um notebook em uma apresentação de slides 
+- Realizar operações com matrizes 
+- Criar e aplicar uma nova classe
+
+Conceitos abordados: 
+- Jupyter Widgets e Plugins
+- Numpy array e suas operações 
+- Conceitos de objeto e classe 
+
+### Aula 3: SQL básico, Pandas Series & DataFrame (2h)
+
 Atividades:
 - Acessar o LIneA Science Server
-- Fazer queries no banco de dados
+- Fazer consultas no banco de dados
 - Fazer download dos dados 
-- Ler arquivos a partir de um notebook (usando a instalação local)
-- Criar um Dataframe e imprimir estatísticas básicas com a biblioteca Pandas 
+- Ler arquivos a partir de um notebook
+- Criar um DataFrame e imprimir estatísticas básicas com a biblioteca Pandas 
+
+Conceitos abordados: 
+- Banco de dados
+- Manipulação, organização e visualização de dados
+- Pandas Series e DataFrame, conceitos e propriedades
  
-### Aula 4: Exploração e visualização dos dados, Matplotlib, Seaborn, Bokeh (1h)
+### Aula 4: Exploração e visualização dos dados com Matplotlib e Seaborn (2h)
+
 Atividades:
-- Criar e customizar plots básicos com Matplotlib 
-- Criar plots elegantes com a biblioteca Seaborn  
-- Exportar um notebook (HTML, PDF, LaTeX)
+- Criar e customizar plots com a biblioteca Matplotlib  
+- Criar e customizar plots com a biblioteca Seaborn
+- Aplicação: construir um diagrama cor-magnitude para uma amostra de galáxias   
+- Exportar um notebook renderizado como arquivo estático (HTML, PDF, LaTeX)
+
+Conceitos abordados:
+- Análise exploratória
+- Visualização gráfica dos dados
+- Histogramas
+- Plots básicos 2D
+- Notebook como ferramenta para comunicação e divulgação de resultados 
+
 
 ## Módulo III - Aplicações na astronomia 
 
