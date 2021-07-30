@@ -1,6 +1,4 @@
 
-Slides: 
-
-https://docs.google.com/presentation/d/1jo1YSXiC-lUm14zUaI-BMPXr9qfpoqKCnHQGO0i-OQI/edit?usp=sharing 
+Slides aula 1: https://docs.google.com/presentation/d/1NzuH2OfjeBsGRJYnUZImNdEn84N2YWRYmHlAdJV1cNU/edit?usp=sharing 
 
 Contato: julia@linea.gov.br 
